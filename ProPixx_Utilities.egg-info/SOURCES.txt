@@ -2,6 +2,7 @@ setup.py
 ProPixx_Utilities.egg-info/PKG-INFO
 ProPixx_Utilities.egg-info/SOURCES.txt
 ProPixx_Utilities.egg-info/dependency_links.txt
+ProPixx_Utilities.egg-info/requires.txt
 ProPixx_Utilities.egg-info/top_level.txt
 propixx_utils/__init__.py
 propixx_utils/propixx.py

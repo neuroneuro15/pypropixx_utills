@@ -6,6 +6,7 @@ setup(name='ProPixx Utilities',
       version='0.6',
       description="Some convenience functions for interacting with VPixx's ProPixx Projector",
       author='Nicholas A. Del Grosso',
-      autho_email='delgrosso@bio.lmu.de',
+      author_email='delgrosso@bio.lmu.de',
       packages=find_packages(),
+      install_requires=['pypixxlib'],
 )
